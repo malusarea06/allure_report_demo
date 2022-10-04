@@ -12,7 +12,6 @@ def test_methB():
 @pytest.mark.skip
 def test_methC():
     print("This is method C")
-    assert False
 
 def test_methD():
     print("This is method D")
